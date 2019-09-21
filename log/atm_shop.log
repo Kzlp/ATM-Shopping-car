@@ -1,4 +1,4 @@
-[2019-04-14 17:03:37,598][MainThread:12084][task_id:用户操作][user.py:17][INFO][用户[zmj]注册成功]
+﻿[2019-04-14 17:03:37,598][MainThread:12084][task_id:用户操作][user.py:17][INFO][用户[zmj]注册成功]
 [2019-04-14 17:03:51,686][MainThread:12084][task_id:用户操作][user.py:27][DEBUG][用户[zmj]登录成功]
 [2019-04-14 17:04:01,289][MainThread:12084][task_id:ATM][bank.py:13][INFO][用户[zmj]本次提现金额为[1000],手续费为[50.0]]
 [2019-04-14 17:04:11,048][MainThread:12084][task_id:ATM][bank.py:48][INFO][用户[zmj]本次还款金额为[1000],当前可用额度为[14950.0]]
@@ -89,3 +89,7 @@
 [2019-04-14 18:35:00,606][MainThread:4592][task_id:用户操作][user.py:27][INFO][用户[zmj]登录成功]
 [2019-04-14 18:35:05,712][MainThread:4592][task_id:ATM][bank.py:15][INFO][用户[zmj]本次提现金额为[1000],手续费为[50.0]]
 [2019-04-15 20:21:03,463][MainThread:10152][task_id:用户操作][user.py:27][INFO][用户[zmj]登录成功]
+15000705802
+“15000705802”
+username:zmj1123
+password:19950215
