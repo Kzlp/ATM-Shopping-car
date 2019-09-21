@@ -65,3 +65,5 @@ def pay_interface(name,cost):
         return '支付成功'
     else:
         return '额度不足!'
+
+url:www.baidu.com
